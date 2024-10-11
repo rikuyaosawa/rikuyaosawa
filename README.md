@@ -1,3 +1,1 @@
-##👋
-
-- 🌱 Exploring various web frameworks and tools
+## Hello there, fellow programmers! 👋
