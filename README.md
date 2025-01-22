@@ -14,7 +14,7 @@ What I am learning (and enjoying) lately:
 
 Study resources I have found most helpful these days:
 
-- [Developer Roadmaps](https://roadmap.sh/) - A community curated collection of roadmaps and other educational content to guide developers learn their craft.
-- [TryHackMe](https://tryhackme.com) - A Cyber Security training site for beginner as well as advanced devs and IT professionals
-- [Scrimba](https://scrimba.com) - A highly interactive (literally you can code in the "same editor" as lecturer) code-learning platform with over a million users from all over the world
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness (need i say more?) 
+- <a href="https://roadmap.sh" target="_blank">Developer Roadmaps</a> - A community curated collection of roadmaps and other educational content to guide developers learn their craft.
+- <a href="https://tryhackme.com" target="_blank">TryHackMe</a> - A Cyber Security training site for beginner as well as advanced devs and IT professionals
+- <a href="https://scrimba.com" target="_blank">Scrimba</a> - A highly interactive (literally you can code in the "same editor" as lecturer) code-learning platform with over a million users from all over the world
+- <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> - A curated list of awesome awesomeness (need i say more?) 
