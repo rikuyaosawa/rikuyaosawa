@@ -14,8 +14,9 @@ What I am learning (and enjoying) lately:
 
 Study resources I have found most helpful these days:
 
-- [Developer Roadmaps](https://roadmap.sh) - A community curated collection of roadmaps and other educational content to guide developers learn their craft.
+- [Developer Roadmaps](https://roadmap.sh) - A community curated collection of roadmaps and other educational content to guide developers learn their craft
 - [TryHackMe](https://tryhackme.com) - A Cyber Security training site for beginner as well as advanced devs and IT professionals
 - [Scrimba](https://scrimba.com) - A highly interactive (literally you can code in the "same editor" as lecturer) code-learning platform with over a million users from all over the world
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness (need i say more?)
-- [LabEx](https://labex.io) - a learning platform that provides many hands on labs for things such as Linux, Docker, and Machine Learning.
+- [LabEx](https://labex.io) - a learning platform that provides many hands on labs for things such as Linux, Docker, and Machine Learning
+- [Play with Docker](https://training.play-with-docker.com) - a hands-on Docker labs and tutorials right in the browser
